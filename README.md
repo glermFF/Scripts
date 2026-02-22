@@ -14,3 +14,5 @@ Venha e colabore.
 ### Bash
 
 ### PowerShell
+-[Recursos da CPU](https://github.com/glermFF/Scripts/blob/main/powershell/cpu_resources.ps1)
+- [Portas/Conexões de Rede](https://github.com/glermFF/Scripts/blob/main/powershell/pc_connections.ps1)
