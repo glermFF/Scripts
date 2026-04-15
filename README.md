@@ -12,6 +12,7 @@ Venha e colabore.
 ---
 
 ### Bash
+-[Movendo arquivos](https://github.com/glermFF/Scripts/blob/main/bash/move_pictures.sh)
 
 ### PowerShell
 -[Recursos da CPU](https://github.com/glermFF/Scripts/blob/main/powershell/cpu_resources.ps1)
