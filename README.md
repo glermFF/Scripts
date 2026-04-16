@@ -4,16 +4,19 @@
 [![license: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ---
-O repositóro a seguir são scripts voltados para melhorar no desempenho, monitoramento e uso do dia a dia com o computador por meio 
-de pipelines de execução. Teremos disponíveis (até o momento) para dois ambientes, distros Linux(bash) e Windows(powershell).
+Este repositório reúne scripts voltados para melhorar desempenho, monitoramento e uso no dia a dia com o computador por meio de pipelines de execução.
 
-Venha e colabore.
+Atualmente, há scripts para dois ambientes:
+- Linux (Bash)
+- Windows (PowerShell)
+
+Contribuições são bem-vindas.
 
 ---
 
-### Bash
--[Movendo arquivos](https://github.com/glermFF/Scripts/blob/main/bash/move_pictures.sh)
+## Bash
+- [Movendo arquivos](https://github.com/glermFF/Scripts/blob/main/bash/transfer_files.sh)
 
-### PowerShell
--[Recursos da CPU](https://github.com/glermFF/Scripts/blob/main/powershell/cpu_resources.ps1)
+## PowerShell
+- [Recursos da CPU](https://github.com/glermFF/Scripts/blob/main/powershell/cpu_resources.ps1)
 - [Portas/Conexões de Rede](https://github.com/glermFF/Scripts/blob/main/powershell/pc_connections.ps1)
